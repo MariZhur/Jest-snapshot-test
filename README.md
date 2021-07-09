@@ -1,9 +1,6 @@
-# jest-image-snapshot example usage
+# jest-snapshot-test
+doesn't affect angular
 
-To run the examples:
-```bash
-git clone https://github.com/americanexpress/jest-image-snapshot.git
-cd jest-image-snapshot/examples
 npm install
 npm test
 ```
